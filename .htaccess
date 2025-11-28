@@ -1,0 +1,28 @@
+# Simple .htaccess for Recipe Rating CMS
+
+# Enable URL Rewriting
+RewriteEngine On
+
+# Set default index file
+DirectoryIndex index.php
+
+# Allow access to all files (for development)
+<Files "*">
+    Order allow,deny
+    Allow from all
+</Files>
+
+# Basic security - protect sensitive files
+<Files "*.sql">
+    Order allow,deny
+    Deny from all
+</Files>
+
+<Files ".htaccess">
+    Order allow,deny
+    Deny from all
+</Files>
+
+# Enable PHP execution
+AddType application/x-httpd-php .php
+
