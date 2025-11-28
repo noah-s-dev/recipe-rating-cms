@@ -177,21 +177,12 @@ The system is designed to be easily customizable:
 
 **License for RiverTheme**
 
-[RiverTheme.com](https://RiverTheme.com) makes this project available for demo, instructional, and personal use. You can ask for or buy a license from [RiverTheme.com](https://RiverTheme.com) if you want a pro website, sophisticated features, or expert setup and assistance. A Pro license is needed for production deployments, customizations, and commercial use.
+RiverTheme makes this project available for demo, instructional, and personal use. You can ask for or buy a license from [RiverTheme.com](https://RiverTheme.com) if you want a pro website, sophisticated features, or expert setup and assistance. A Pro license is needed for production deployments, customizations, and commercial use.
 
 **Disclaimer**
 
 The free version is offered "as is" with no warranty and might not function on all devices or browsers. It might also have some coding or security flaws. For additional information or to get a Pro license, please get in touch with [RiverTheme.com](https://RiverTheme.com).
 
-## 🤝 Support
-
-For support, questions, or to report issues:
-- **Website**: [RiverTheme.com](https://RiverTheme.com)
-- **Documentation**: Check this README and inline code comments
-- **Community**: Join our developer community for assistance
-
 ---
 
-**Developed by [RiverTheme](https://rivertheme.com)**
-
-*Last updated: July 2025*
+**© 2025 RiverTheme. All rights reserved.**
